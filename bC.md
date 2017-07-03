@@ -1,2 +1,4 @@
 ####Hi-C library analysis 
-July 3, 2017 10:49 AM
+Mon, Jul 3, 2017 11:07 AM
+
+
